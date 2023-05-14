@@ -1,0 +1,15 @@
+h1, h2 {
+    color: blueviolet;
+}
+tr, td {
+    color: midnightblue;
+}
+a {
+    color: blue;
+}
+div {
+    color: rgb(92, 64, 64);
+}
+#submit {
+    color: red;
+}
